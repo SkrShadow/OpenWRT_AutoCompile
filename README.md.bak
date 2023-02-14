@@ -3,11 +3,19 @@
 
 [1]: https://img.shields.io/badge/license-MIT-brightgreen.svg
 [2]: /LICENSE
-[3]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/actions/workflows/Openwrt-AutoBuild.yml/badge.svg
-[4]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/actions
+[3]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+[4]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/pulls
+[5]: https://img.shields.io/badge/Issues-welcome-brightgreen.svg
+[6]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/issues/new
+[7]: https://img.shields.io/github/v/release/hyird/Action-Openwrt
+[8]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/releases
+[10]: https://img.shields.io/badge/Contact-telegram-blue
+[11]: https://t.me/opwrt
+[12]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/actions/workflows/Openwrt-AutoBuild.yml/badge.svg
+[13]: https://github.com/kiddin9/OpenWrt_x86-r2s-r4s/actions
 
 [![license][1]][2]
-[![AutoBuild][3]][4]
+[![AutoBuild][12]][13]
 
 ## **使用**
 
@@ -68,8 +76,6 @@
 
 #### ipq807x的Kernel等部分源码来源 https://github.com/Boos4721/openwrt
 #### ipq60xx的Kernel等部分源码来源 https://github.com/coolsnowwolf/openwrt-gl-ax1800
-
-#### 感谢Kiddin9大佬的自动编译https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
 
 - [OpenWrt](https://github.com/openwrt/openwrt)
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
